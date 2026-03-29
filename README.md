@@ -15,8 +15,8 @@ Obeserved credits over time and
 Detected pattern in customer behaviour.
 
 ##Files Included
-1. Dataset (CSV file),
-2. Analysis file (python) and
+1. Dataset (CSV file)
+2. Analysis file (python) 
 3. Final Project report (PDF).
 
 ##Conclusion 
